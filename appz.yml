@@ -1,7 +1,7 @@
 app:
     name: phplumen
     code: php lumen
-    notify: aborra@ecloudcontrol.com
+    notify: sjunu@ecloudcontrol.com
 
 build:
     version: 0.4
@@ -11,7 +11,7 @@ build:
     image_template: phplumen-7.4
 
 deploy:
-    context: anushab7/DEV
+    context: SJ-CloudControl/DEV
     replicas: 1
     port:
     - 80
