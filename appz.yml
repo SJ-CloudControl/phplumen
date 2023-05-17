@@ -34,4 +34,4 @@ properties:
       vault: APP_KEY
     
     ##General Section
-    revision: 38
+    revision: 37
